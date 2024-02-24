@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.aabssmc.minehutapi"},{"l":"com.github.aabssmc.minehutapi.players"},{"l":"com.github.aabssmc.minehutapi.server"}];updateSearchResults();
